@@ -34,11 +34,9 @@ Hi, I'm  飞翔默默情 (https://fxkjnj.com/), 一枚苦逼的运维狗
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-📊 **This Week I Spent My Time On: prometheus for kubernetes 
-
+📊 **This Week I Spent My Time On: 
+                                    prometheus for kubernetes 
 
 
 📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fxkjnj&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
