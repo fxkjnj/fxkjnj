@@ -19,7 +19,7 @@
 Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一枚苦逼的运维狗 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/fxkjnj/fxkjnj.github.io/main/%E8%BF%90%E7%BB%B4.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 974907350@qq.com
