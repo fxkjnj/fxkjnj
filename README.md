@@ -38,14 +38,6 @@ Hi, I'm  飞翔默默情 (https://fxkjnj.com/), 一枚苦逼的运维狗
 📊 **This Week I Spent My Time On: prometheus for kubernetes 
 
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,480 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 586 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 My GitHub Stats
 
