@@ -35,7 +35,7 @@ Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On: 
-                                    prometheus for kubernetes 
+                                    prometheus for kubernetes  is OK 
 
 
 📈 My GitHub Stats
