@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只苦逼的运维狗 
+Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之旅
 
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/fxkjnj/fxkjnj.github.io/main/%E8%BF%90%E7%BB%B4.gif?raw=true" width="500" height="320" />
