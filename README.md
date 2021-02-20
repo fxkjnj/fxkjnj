@@ -34,6 +34,8 @@ Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之
 <code><img height="20" src="http://jpg.fxkjnj.com/github-logo/mysql.png"></code>
 <code><img height="20" src="http://jpg.fxkjnj.com/github-logo/git.png"></code>
 <code><img height="20" src="http://jpg.fxkjnj.com/github-logo/kubernetes.png"></code>
+
+
 📊 **This Week I Spent My Time On: 
                                     prometheus for kubernetes  is OK 
 
