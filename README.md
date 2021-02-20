@@ -1,4 +1,4 @@
-### Hey there <img src="http://jpg.fxkjnj.com/github-logo/hello.png" width="25px">
+### Hey there <img src="http://jpg.fxkjnj.com/github-logo/hello.gif" width="25px">
 <a href="https://fxkjnj.com">
   <img align="left" alt="Abhishek's Discord" width="22px" src="http://jpg.fxkjnj.com/github-logo/discord.svg" />
 </a>
