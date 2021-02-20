@@ -12,8 +12,6 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="http://jpg.fxkjnj.com/github-logo/spotify.svg" />
 </a>
 
-![](http://jpg.fxkjnj.com/sre.gif)
-
 <br />
 
 Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之旅
