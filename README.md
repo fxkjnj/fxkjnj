@@ -35,7 +35,7 @@ Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之
 
 
 📊 **This Week I Spent My Time On: 
-                                    prometheus for kubernetes  is OK 
+                                    ELK 容器日志收集
 
 <br />  
 
