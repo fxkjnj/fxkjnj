@@ -36,7 +36,7 @@ Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之
 
 📊 **This Week I Spent My Time On: 
                                     
-🎉🎉🎉🎉  完善EFK内容/20210311  写CICD 微服务项目内容  🎉🎉🎉🎉
+🎉🎉🎉🎉  写CICD 微服务项目内容  🎉🎉🎉🎉
 
 <br />  
 
