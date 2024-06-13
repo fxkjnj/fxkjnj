@@ -1,44 +1,16 @@
-### Hey there <img src="http://jpg.fxkjnj.com/github-logo/hello.gif" width="25px">
-<a href="https://fxkjnj.com">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="http://jpg.fxkjnj.com/github-logo/discord.svg" />
-</a>
-<a href="https://fxkjnj.com">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="http://jpg.fxkjnj.com/github-logo/twitter.svg" />
-</a>
-<a href="https://fxkjnj.com">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="http://jpg.fxkjnj.com/github-logo/linkedin.svg" />
-</a>
-<a href="https://fxkjnj.com">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="http://jpg.fxkjnj.com/github-logo/spotify.svg" />
-</a>
-
-<br />
-
-Hi, I'm  飞翔沫沫情 (https://fxkjnj.com/) 一只运维狗的升级打怪之旅
-
-
-  <img align="right" alt="GIF" src="http://jpg.fxkjnj.com/sre.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: 974907350@qq.com
-- ✨ **Wanna Talk?** Contact QQ 974907350 Or Leave a message on the website https://fxkjnj.com
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="http://jpg.fxkjnj.com/github-logo/docker.png"></code>
-<code><img height="20" src="http://jpg.fxkjnj.com/github-logo/python.png"></code>
-<code><img height="20" src="http://jpg.fxkjnj.com/github-logo/go.png"></code>
-<code><img height="20" src="http://jpg.fxkjnj.com/github-logo/mysql.png"></code>
-<code><img height="20" src="http://jpg.fxkjnj.com/github-logo/git.png"></code>
-<code><img height="20" src="http://jpg.fxkjnj.com/github-logo/kubernetes.png"></code>
-
-
-📊 **This Week I Spent My Time On: 
-                                    
-🎉🎉🎉🎉 hw  🎉🎉🎉🎉
-
-<br />  
-
-📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fxkjnj&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<h1>Hi 👋, I'm srebro</h1>
+<p>https://srebro.cn</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srebro.cn | 运维小弟&show_icons=true&locale=en" alt="srebro.cn | 运维小弟" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srebro.cn | 运维小弟&" alt="srebro.cn | 运维小弟" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=srebro.cn | 运维小弟&show_icons=true&locale=en&layout=compact" alt="srebro.cn | 运维小弟" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srebro.cn | 运维小弟" alt="srebro.cn | 运维小弟" /></a></p>
